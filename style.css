@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  
+  ul {
+    list-style-type: none;
+    background-color: lightblue;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 10px 16px;
+    color:darkgreen;
+    text-decoration: none;
+  }
+  
+  li:hover{
+      background-color: chartreuse;
+  }
+  
+  .main{
+      padding: 20px 25px 0px 20px;
+  }
+  
+  .main h1{
+      font-size: 30px;
+  }
+  
+  body{
+      background-color: beige;
+  }
